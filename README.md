@@ -1,4 +1,4 @@
-# Flask_Stocks
+# Flask-Stocks
 
 ## Objective
 - A simple flask server that provides input and output for appl.csv stock file (file not included)
